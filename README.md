@@ -54,6 +54,15 @@ unsigned int example_size = 1234;
 
 #endif
 ```
+
+> File_Name - the name of the input file is formed without the extension (example.exe > example)
+The names of the variables are formed as follows:
+```
+File_Name_data - Array of bytes
+File_Name_size - File length
+```
+This data is needed for use in the code.
+
 ### Compile in Visual Studio
 1. Set the C++ standard to **C++17** or higher.
 2. Build the project
