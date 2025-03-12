@@ -1,6 +1,6 @@
 # Files-to-Bytes
 
-🇬🇧 [English](README.md) | [🇷🇺 Русский](README.RU.md)
+[🇬🇧 English](README.md) | [🇷🇺 Русский](README.RU.md)
 
 ---
 
