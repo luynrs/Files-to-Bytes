@@ -80,7 +80,3 @@ int main() {
 
 ### Лицензия
 Проект распространяется под лицензией **Apache License 2.0**.
-
-### Автор
-[luynar](https://github.com/luynrs)
-
